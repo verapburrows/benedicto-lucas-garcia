@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Benedicto Lucas García" ] },
+    "summary": { "en": [ "Testimony of Benedicto Lucas García, brother of former President Gen. Romeo Lucas García, (1978-1982)." ] },
+    "items": [
+    ]
+}
